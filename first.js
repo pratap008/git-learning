@@ -15,3 +15,5 @@ console.log(upi);
 const latest = "latest change added";
 console.log(latest);
 
+// fixing some bug 
+console.log("bug fixed");
